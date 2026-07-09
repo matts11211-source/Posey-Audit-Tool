@@ -1,4 +1,4 @@
-const CACHE_NAME = 'posey-rounding-pwa-v1';
+const CACHE_NAME = 'posey-rounding-pwa-v2-facility-dropdown';
 const ASSETS = [
   './',
   './index.html',
