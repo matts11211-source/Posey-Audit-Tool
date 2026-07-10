@@ -1,4 +1,4 @@
-const CACHE_NAME = "posey-protect-v1-20260709";
+const CACHE_NAME = "posey-protect-v2-facility-safe-20260709";
 const APP_SHELL = [
   "./",
   "./index.html",
