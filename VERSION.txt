@@ -1,0 +1,4 @@
+Posey Purposeful Rounding Audit Tool
+Release: GitHub Package 1.0
+Source build: v2.10 startup fixed
+Package date: 2026-07-12
